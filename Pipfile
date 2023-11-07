@@ -13,6 +13,7 @@ openpyxl = "*"
 scikit-learn = "*"
 jinja2 = "*"
 lxml = "*"
+plotly-express = "*"
 
 [dev-packages]
 

@@ -18,6 +18,7 @@ nbformat = "*"
 python-dotenv = "*"
 dash = "*"
 dash-bootstrap-components = "*"
+py-mon = "*"
 
 [dev-packages]
 
